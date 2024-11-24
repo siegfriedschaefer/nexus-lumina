@@ -7,11 +7,11 @@
     "text": "Nexus Lumina is a TPIP - Technical Project In Progress."
   },
   {
-    "objectID": "about.html#today-static-website",
-    "href": "about.html#today-static-website",
+    "objectID": "about.html#today---ssw-serverless-static-website",
+    "href": "about.html#today---ssw-serverless-static-website",
     "title": "About",
-    "section": "Today (Static Website)",
-    "text": "Today (Static Website)\n\nbuild with Quarto\ndeployed as Cloudflare Pages\nhosted on Github"
+    "section": "Today - SSW (Serverless Static Website)",
+    "text": "Today - SSW (Serverless Static Website)\n\nbuild with Quarto\ndeployed as Cloudflare Pages\nhosted on Github"
   },
   {
     "objectID": "about.html#tomorrow-web3-community",
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Nexus Lumina",
     "section": "",
-    "text": "Let us buidl our sovereign future!"
+    "text": "Let’s buidl our sovereign future!"
   }
 ]

@@ -4,7 +4,7 @@ title: "About"
 
 Nexus Lumina is a TPIP - Technical Project In Progress.
 
-## Today (Static Website)
+## Today - SSW (Serverless Static Website)
 
 - build with [Quarto](https://quarto.org)
 - deployed as [Cloudflare Pages](https://pages.cloudflare.com/)
