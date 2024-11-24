@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Nexus Lumina is a TPIP - Technical Project In Progress."
+  },
+  {
+    "objectID": "about.html#today-static-website",
+    "href": "about.html#today-static-website",
+    "title": "About",
+    "section": "Today (Static Website)",
+    "text": "Today (Static Website)\n\nbuild with Quarto\ndeployed as Cloudflare Pages\nhosted on Github"
+  },
+  {
+    "objectID": "about.html#tomorrow-web3-community",
+    "href": "about.html#tomorrow-web3-community",
+    "title": "About",
+    "section": "Tomorrow (Web3 Community)",
+    "text": "Tomorrow (Web3 Community)\n… to be done"
   },
   {
     "objectID": "index.html",

@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+Nexus Lumina is a TPIP - Technical Project In Progress.
+
+## Today (Static Website)
+
+- build with [Quarto](https://quarto.org)
+- deployed as [Cloudflare Pages](https://pages.cloudflare.com/)
+- hosted on [Github](https://github.com/siegfriedschaefer/nexus-lumina)
+
+## Tomorrow (Web3 Community)
+
+... to be done
