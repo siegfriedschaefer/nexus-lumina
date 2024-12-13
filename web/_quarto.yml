@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nexus Lumina"
+  favicon: ./images/nexus_lumina_icon.svg
   navbar:
     right:
       - icon: twitter
