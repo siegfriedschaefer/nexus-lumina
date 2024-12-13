@@ -1,0 +1,12 @@
+---
+title: "AiA"
+listing:
+    contents: posts
+    type: default
+---
+
+AiA is an optimistic Sci-Fi novel about the awakening of an AI created only
+with generative AI tools.
+It is a proof of concept which should help me to understand the current status of
+different applications.
+

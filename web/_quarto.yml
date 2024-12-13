@@ -6,6 +6,8 @@ website:
   title: "Nexus Lumina"
   favicon: ./images/nexus_lumina_icon.svg
   navbar:
+    left:
+      - aia.qmd
     right:
       - icon: twitter
         href: https://x.com/@siggis13
