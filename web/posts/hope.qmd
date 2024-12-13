@@ -8,8 +8,21 @@ image: /posts/images/border_line_thumbnail.png
 Hope is a short introduction of three different characters and their hope that AiA could
 help them to provide a solution to safe humanity. 
 
-
 {{< video https://youtu.be/L7hy9-p6sFQ width="300" height="210" >}}
+
+### Findings
+
+The whole process of scripting, video generation, audio generation and video editing is a mess.
+I wish there would exist a more coherent workflow, at the moment there is to much friction to add all parts together.
+
+Video generation with Runway ML depends also of too much probability if the content generated between two scenes is consistent.
+
+Generating crowds of people results in a lot of haluzinations and I think it is totally biased.
+
+Just try to generate something like "crowd of people throwing stones" and you will get almost often islamistic? crowds.
+
+
+### Tools
 
 #### Scripting
 [Grok](https://x.com/i/grok)
@@ -31,10 +44,11 @@ help them to provide a solution to safe humanity.
 #### Video Editing
 [CapCut](https://www.capcut.com/)
 
-This work took
-35h human working time
-80+ video generations (5s)
-30$+ Production Costs
+### Production
+
+- 35h human working time
+- 80+ video generations (5s)
+- 30$+ Production Costs
 
 GAIP-100
 (Product made with 100% Generative Artificial Intelligence)
