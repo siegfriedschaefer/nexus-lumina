@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Nexus Lumina is a TPIP - Technical Project In Progress.
+Nexus Lumina wants to help you to discover new ways to personal and mental health and financial independence.
 
 ## Today - SSW (Serverless Static Website)
 

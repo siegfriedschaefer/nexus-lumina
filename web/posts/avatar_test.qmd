@@ -1,0 +1,14 @@
+---
+title: "UX"
+date: 12/21/2024
+author: SiggiS
+image: /posts/images/border_line_thumbnail.png
+---
+
+AiA is not just a protagonist in a short video novel.
+It should become a reality, too.
+But how should we interact with AiA?
+
+This is a short case study using TalkingHead from met4citizen.
+
+{{< video https://youtu.be/c3pGN_30BtY width="300" height="210" >}}
