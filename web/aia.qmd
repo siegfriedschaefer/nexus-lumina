@@ -1,8 +1,11 @@
 ---
 title: "AiA"
 listing:
-    contents: posts
     type: default
+    sort: 
+        - "date desc"
+    contents: posts
+    feed: true
 ---
 
 AiA is an optimistic Sci-Fi novel about the awakening of an AI created only

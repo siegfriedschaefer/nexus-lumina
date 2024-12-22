@@ -2,7 +2,7 @@
 title: "UX"
 date: 12/21/2024
 author: SiggiS
-image: /posts/images/border_line_thumbnail.png
+image: /posts/images/avatar_maya_julia.png
 ---
 
 AiA is not just a protagonist in a short video novel.
